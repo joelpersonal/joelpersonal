@@ -1,146 +1,73 @@
-# ⚡ WELCOME TO THE CODEX SANCTORUM ⚡
+<!-- Animated & Professional GitHub README for Joel G. -->
 
-<div align="center">
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&color=00F0FF&center=true&vCenter=true&lines=Hey+there!+👋;I'm+Joel+G.;CSBS+Student+💻;Full+Stack+Developer+🚀" alt="Typing SVG">
+</h1>
 
-```ascii
-    ███╗   ███╗ █████╗ ██████╗ ██╗   ██╗███████╗██╗         ██████╗ ███████╗██╗   ██╗
-    ████╗ ████║██╔══██╗██╔══██╗██║   ██║██╔════╝██║         ██╔══██╗██╔════╝██║   ██║
-    ██╔████╔██║███████║██████╔╝██║   ██║█████╗  ██║         ██║  ██║█████╗  ██║   ██║
-    ██║╚██╔╝██║██╔══██║██╔══██╗╚██╗ ██╔╝██╔══╝  ██║         ██║  ██║██╔══╝  ╚██╗ ██╔╝
-    ██║ ╚═╝ ██║██║  ██║██║  ██║ ╚████╔╝ ███████╗███████╗    ██████╔╝███████╗ ╚████╔╝ 
-    ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚══════╝╚══════╝    ╚═════╝ ╚══════╝  ╚═══╝  
-```
-
-### 🌌 *"With great code comes great responsibility"* 🌌
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron\&size=24\&duration=3000\&pause=1000\&color=F70000\&center=true\&vCenter=true\&width=600\&lines=Assembling+the+Ultimate+Code+Arsenal;Deploying+Next-Gen+Solutions;Building+the+Impossible)](https://git.io/typing-svg)
-
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF">
+</p>
 
 ---
 
-## 🦾 THREAT LEVEL: OMEGA DEVELOPER
-
-```javascript
-class MarvelDev extends Avenger {
-  constructor() {
-    super();
-    this.name = "JOEL";
-    this.alias = "The Code Sorcerer";
-    this.powers = ["Full-Stack Mastery", "Bug Annihilation", "Infinite Scalability"];
-    this.infinity_stones = {
-      💚: "Node.js",      // Reality Stone
-      💙: "React",        // Space Stone  
-      💜: "Python",       // Power Stone
-      💛: "HTML,CSS,JAVASCRIPT,JAVA",  // Mind Stone
-      🧡: "DevOps",       // Soul Stone
-      ❤️: "TypeScript"    // Time Stone
-    };
-  }
-  
-  snap() {
-    return "Half of all bugs... eliminated.";
-  }
-}
-```
+### 🧠 About Me  
+🎓 **CSBS Student** passionate about building full-stack applications and exploring creative tech ideas.  
+💡 Always learning — currently diving deeper into **Node.js, React, and DBMS**.  
+⚡ I love experimenting with UI/UX, backend logic, and AI-driven projects.
 
 ---
 
-## ⚔️ ARSENAL OF ABILITIES
+### 🛠️ Tech Stack
 
-<table>
-<tr>
-<td width="50%">
-
-### 🔴 **STARK TECH STACK**
-
-```
-Frontend Reactor   ⚛️ React | Node.js | Vue
-Neural Interface   🧠 TypeScript | JavaScript
-Nanotech Styling   ✨ Tailwind | Styled-Components
-Hologram Display   📱 React Native | Flutter
-```
-
-</td>
-<td width="50%">
-
-### 🟢 **HULK SMASH BACKEND**
-
-```
-Gamma Servers      💚 Node.js | Python | Go
-Super Strength DB  💪 PostgreSQL | MongoDB
-Vibranium APIs     🛡️ REST | GraphQL | tRPC
-Quantum Deploy     ⚡ Docker | Kubernetes | AWS
-```
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,java,python,git,github,mysql,mongodb,bootstrap,tailwind,vscode,figma&perline=8" alt="Tech Stack">
+</p>
 
 ---
 
-## 🎯 CURRENT MISSIONS
+### 📊 GitHub Stats
 
-```diff
-+ 🚀 [PROJECT ARC REACTOR] - Building next-gen AI-powered web apps
-+ 🛡️ [SHIELD PROTOCOL] - Contributing to open-source security tools  
-+ ⚡ [INFINITY ALGORITHM] - Training ML models for real-world impact
-! 🌊 [ASGARD GATEWAY] - Scaling distributed systems across the multiverse
-```
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JoelG&show_icons=true&theme=tokyonight" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoelG&theme=tokyonight" height="180em" />
+</p>
 
 ---
 
-## 📊 POWER LEVELS
+### 🧩 Top Languages
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joelpersonal\&show_icons=true\&theme=radical\&hide_border=true\&bg_color=0D1117\&title_color=F70000\&icon_color=F70000)
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=joelpersonal\&theme=radical\&hide_border=true\&background=0D1117\&ring=F70000\&fire=F70000\&currStreakLabel=F70000)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joelpersonal\&layout=compact\&theme=radical\&hide_border=true\&bg_color=0D1117\&title_color=F70000)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoelG&layout=compact&theme=tokyonight" height="150em" />
+</p>
 
 ---
 
-## 🌟 HEROIC ACHIEVEMENTS
+### 💫 Fun Animation Zone
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=joelpersonal\&theme=darkhub\&no-frame=true\&row=1\&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🤝 ASSEMBLE WITH ME
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Stark_Industries-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/joel-g-7900ab292/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Avengers_HQ-F70000?style=for-the-badge\&logo=google-chrome\&logoColor=white)]()
-[![Email](https://img.shields.io/badge/Email-Shield_Protocol-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:joelzed21@gmail.com)
-
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="250">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="250">
+</p>
 
 ---
 
-<div align="center">
+### 📫 Connect with Me
 
-### ⚡ *"I am Iron Man... I mean, a Full STACK Developer"* ⚡
+<p align="center">
+  <a href="mailto:joel@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/joel"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/JoelG"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
 
-```
-█████╗ ██╗   ██╗███████╗███╗   ██╗ ██████╗ ███████╗██████╗ ███████╗
-██╔══██╗██║   ██║██╔════╝████╗  ██║██╔════╝ ██╔════╝██╔══██╗██╔════╝
-███████║██║   ██║█████╗  ██╔██╗ ██║██║  ███╗█████╗  ██████╔╝███████╗
-██╔══██║╚██╗ ██╔╝██╔══╝  ██║╚██╗██║██║   ██║██╔══╝  ██╔══██╗╚════██║
-██║  ██║ ╚████╔╝ ███████╗██║ ╚████║╚██████╔╝███████╗██║  ██║███████║
-╚═╝  ╚═╝  ╚═══╝  ╚══════╝╚═╝  ╚═══╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝╚══════╝
-```
+---
 
-![Visitor Count](https://profile-counter.glitch.me/joelpersonal/count.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</p>
 
-**⚡ Whatever it takes. ⚡**
+<h3 align="center">✨ “Code. Create. Conquer.” ✨</h3>
 
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="400">
+</p>
