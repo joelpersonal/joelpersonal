@@ -1,7 +1,7 @@
 <!-- Animated & Professional GitHub README for Joel G. -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&color=00F0FF&center=true&vCenter=true&lines=Hey+there!+👋;I'm+Joel+G.;CSBS+Student+💻;Full+Stack+Developer+🚀" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&color=00F0FF&center=true&vCenter=true&lines=Hey+there!+👋;I'm+Joel+G.;CSBS+Student+💻;Full+Stack+Developer" alt="Typing SVG">
 </h1>
 
 <p align="center">
