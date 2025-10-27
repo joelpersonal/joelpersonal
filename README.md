@@ -28,8 +28,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoelG&show_icons=true&theme=tokyonight" height="180em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoelG&theme=tokyonight" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Joelpersonal&show_icons=true&theme=tokyonight" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Joelpersonal&theme=tokyonight" height="180em" />
 </p>
 
 ---
@@ -37,7 +37,7 @@
 ### 🧩 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoelG&layout=compact&theme=tokyonight" height="150em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joelpersonal&layout=compact&theme=tokyonight" height="150em" />
 </p>
 
 ---
