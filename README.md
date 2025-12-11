@@ -1,73 +1,98 @@
-<!-- Animated & Professional GitHub README for Joel G. -->
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&color=00F0FF&center=true&vCenter=true&lines=Hey+there!+👋;I'm+Joel+G.;CSBS+Student+💻;Full+Stack+Developer" alt="Typing SVG">
-</h1>
-
+<!-- Animated Header Title with Typing Effect -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=JOEL+G" alt="Typing SVG" />
 </p>
+
+<h3 align="center">Full Stack Developer | Problem Solver | Tech Enthusiast</h3>
+
+<!-- Animated Divider -->
+<p align="center">
+  <img src="https://i.gifer.com/3N1R.gif" width="100%" height="4px" />
+</p>
+
+## 👨‍💻 About Me
+
+🌟 Passionate Full Stack Developer  
+🧠 Logical Thinker & Effective Problem Solver  
+🚀 Building modern, scalable web applications  
+💡 Exploring AI-powered systems & backend engineering  
+🎯 Goal: Become a top-tier Full Stack + AI Developer  
+
+<!-- Animated Divider -->
+<p align="center">
+  <img src="https://i.gifer.com/3N1R.gif" width="100%" height="4px" />
+</p>
+
+## ⚡ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,django,flask,git,github,figma" />
+</p>
+
+<!-- Animated Divider -->
+<p align="center">
+  <img src="https://i.gifer.com/3N1R.gif" width="100%" height="4px" />
+</p>
+
+## 📂 Projects
+
+### 🛍️ **1. E-Commerce Fashion Website**
+A fully working online fashion store with products, cart system, authentication & admin dashboard.  
+✔ Full Stack | ✔ Secure | ✔ Responsive  
+🔗 *Add GitHub link when uploaded*
 
 ---
 
-### 🧠 About Me  
-🎓 **CSBS Student** passionate about building full-stack applications and exploring creative tech ideas.  
-💡 Always learning — currently diving deeper into **Node.js, React, and DBMS**.  
-⚡ I love experimenting with UI/UX, backend logic, and AI-driven projects.
+### 🏋️ **2. Online Fitness Website**
+A modern fitness platform with workouts, trainers, and wellness content.  
+✔ Modern UI | ✔ Responsive | ✔ Smooth Navigation  
+🔗 *Add GitHub link when uploaded*
 
 ---
 
-### 🛠️ Tech Stack
+### 🏠 **3. BorrowNest – Community Sharing Platform**
+A platform for borrowing & lending items within the neighbourhood.  
+✔ Real Use Case | ✔ Secure | ✔ Community Driven  
+🔗 *Add GitHub link when uploaded*
 
+<!-- Animated Divider -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,java,python,git,github,mysql,mongodb,bootstrap,tailwind,vscode,figma&perline=8" alt="Tech Stack">
+  <img src="https://i.gifer.com/3N1R.gif" width="100%" height="4px" />
 </p>
 
----
+## 📊 GitHub Stats
 
-### 📊 GitHub Stats
-
+### 🔥 Streak Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Joelpersonal&show_icons=true&theme=tokyonight" height="180em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Joelpersonal&theme=tokyonight" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=joelpersonal&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-### 🧩 Top Languages
-
+### 📈 Profile Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joelpersonal&layout=compact&theme=tokyonight" height="150em" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=joelpersonal&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelpersonal&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-### 💫 Fun Animation Zone
-
+<!-- Animated Divider -->
 <p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="250">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="250">
+  <img src="https://i.gifer.com/3N1R.gif" width="100%" height="4px" />
 </p>
 
----
+## 🔗 Connect With Me
 
-### 📫 Connect with Me
-
-<p align="center">
-  <a href="mailto:joel@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/joel"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/JoelG"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"></a>
+<p align="left">
+  <a href="mailto:kit27.csbs26@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="48px" />
+  </a>
+  <a href="https://www.linkedin.com/in/joel-g-7900ab292/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48px" />
+  </a>
+  <a href="https://github.com/joelpersonal">
+    <img src="https://skillicons.dev/icons?i=github" width="48px" />
+  </a>
 </p>
 
----
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-</p>
-
-<h3 align="center">✨ “Code. Create. Conquer.” ✨</h3>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="400">
+  ⭐ <b>Thanks for visiting my profile! Explore my repositories.</b> ⭐  
+  <br>Always learning. Always building. ✨
 </p>
