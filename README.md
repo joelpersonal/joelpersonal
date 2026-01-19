@@ -1,7 +1,7 @@
 <!-- UNIQUE BLACK ANIMATED HEADER -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&multiline=true&width=900&height=160&lines=Hey%2C+I'm+Joel+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Computer+Science+%26+Business+Systems+Student;AI+%7C+Full+Stack+%7C+DSA+Enthusiast" />
-</p>
+<div align="center" style="background-color:#000000; padding: 50px 0;">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&multiline=true&width=900&height=160&lines=Hey%2C+I'm+Joel;Computer+Science+%26+Business+Systems+Student;AI+%7C+Full+Stack+%7C+DSA+Enthusiast" />
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Actively%20Building-black?style=for-the-badge" />
@@ -31,7 +31,7 @@ I enjoy building **scalable systems**, writing **clean maintainable code**, and 
 
 - 📌 Data Structures & Algorithms  
 - 📌 System Design fundamentals  
-- 📌 REST APIs & backend logic  
+- 📌 REST APIs,frontend & backend logic  
 - 📌 Full Stack Web Development  
 - 📌 Applied Machine Learning basics  
 
@@ -44,16 +44,18 @@ I enjoy building **scalable systems**, writing **clean maintainable code**, and 
 ### 🧩 Competitive Programming
 - Regular practice on **LeetCode, CodeChef, Codeforces**
 - Focus on **patterns, optimization, and edge cases**
-- Strong grip on arrays, strings, recursion, trees, graphs
+- Practising on arrays, strings, recursion, trees, graphs
 
 ### 📊 LeetCode Overview
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=JetBrains%20Mono&ext=contest" />
+  <a href="https://leetcode.com/u/kit27csbs26/">
+    <img src="https://leetcard.jacoblin.cool/kit27csbs26?theme=dark&font=JetBrains%20Mono&ext=contest" />
+  </a>
 </p>
 
 ### 📌 Codolio
 Track all coding progress across platforms in one place  
-👉 https://codolio.com/YOUR_USERNAME
+👉 https://codolio.com/profile/oel_
 
 ---
 
@@ -97,8 +99,8 @@ Track all coding progress across platforms in one place
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=joelpersonal&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelpersonal&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
@@ -115,7 +117,7 @@ Track all coding progress across platforms in one place
 ## 📫 Let’s Connect
 
 <p>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/joelpersonal">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
